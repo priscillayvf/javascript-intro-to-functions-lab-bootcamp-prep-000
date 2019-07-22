@@ -105,18 +105,17 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(STRING) {
   return "YES INDEED!"
 }
-function sayHiToGrandma(STRING) {
-  return ""
+
 }
-function sayHiToGrandma(string) {
-  if lowerCase
-    return "I can't hear you!"
-  end
-  if upperCase
-    return "YES INDEED!"
-  else I love you, Grandma.
-    return "I love you, too."
-  end
+//function sayHiToGrandma(string) {
+//  if lowerCase
+//    return "I can't hear you!"
+//  end
+//  if upperCase
+//    return "YES INDEED!"
+//  else I love you, Grandma.
+//    return "I love you, too."
+//  end
 //end
 
 function sayHiToGrandma(string) {
