@@ -106,7 +106,6 @@ function sayHiToGrandma(STRING) {
   return "YES INDEED!"
 }
 
-}
 //function sayHiToGrandma(string) {
 //  if lowerCase
 //    return "I can't hear you!"
