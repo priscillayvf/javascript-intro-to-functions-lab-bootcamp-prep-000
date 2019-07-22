@@ -120,7 +120,7 @@ function sayHiToGrandma(string) {
 end
 
 function sayHiToGrandma(string) {
-  if string === STRING
+  if string === STRING {
     return "YES INDEED!"
 }
   else string === 'I love you, Grandma' {
