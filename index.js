@@ -105,8 +105,26 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(STRING) {
   return "YES INDEED!"
 }
+function sayHiToGrandma(STRING) {
+  return ""
+}
+function sayHiToGrandma(string) {
+  if lowerCase
+    return "I can't hear you!"
+  end
+  if upperCase
+    return "YES INDEED!"
+  else I love you, Grandma.
+    return "I love you, too."
+  end
+end
 
-var uppercase = "STRING"
- 
-uppercase.toUpperCase() === uppercase
-
+function sayHiToGrandma(string) {
+  if string === STRING
+    return "YES INDEED!"
+}
+  else string === 'I love you, Grandma' {
+    return "I love you, too."
+}  else string === string {
+        return "I can't hear you!"
+} 
