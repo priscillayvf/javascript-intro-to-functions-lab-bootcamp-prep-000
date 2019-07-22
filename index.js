@@ -117,16 +117,16 @@ function sayHiToGrandma(string) {
   else I love you, Grandma.
     return "I love you, too."
   end
-end
+//end
 
-// function sayHiToGrandma(string) {
-//  if (string === "STRING") {
-//    return "YES INDEED!"
-//}
-//  else if (string === 'I love you, Grandma') {
-//    return "I love you, too."
-//} 
-//  else if (string === "string") {
-//        return "I can't hear you!"
-//} 
-//}
+function sayHiToGrandma(string) {
+  if (string === "STRING") {
+    return "YES INDEED!"
+}
+  else if (string === 'I love you, Grandma') {
+    return "I love you, too."
+} 
+  else if (string === "string") {
+        return "I can't hear you!"
+} 
+}
