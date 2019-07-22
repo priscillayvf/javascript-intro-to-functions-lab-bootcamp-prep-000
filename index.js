@@ -123,9 +123,9 @@ function sayHiToGrandma(string) {
   if (string === "STRING") {
     return "YES INDEED!"
 }
-  else (string === 'I love you, Grandma') {
+  else if (string === 'I love you, Grandma') {
     return "I love you, too."
 } 
-  else (string === "string") {
+  else if (string === "string") {
         return "I can't hear you!"
 } 
